@@ -4,4 +4,4 @@ A test repository to learn git
 ## Purpose
 - practice git
 - have fun
-- eat lunch, get coffee
+- eat lunch, get coffee, chat with mel 
